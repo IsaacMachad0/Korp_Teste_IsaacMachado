@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Backend/">
+    <Project Path="Backend/InvoiceFlow.Application/InvoiceFlow.Application.csproj" />
+    <Project Path="Backend/InvoiceFlow.Domain/InvoiceFlow.Domain.csproj" />
+    <Project Path="Backend/InvoiceFlow.InventoryAPI/InvoiceFlow.InventoryAPI.csproj" />
+    <Project Path="Backend/InvoiceFlow.InvoicingAPI/InvoiceFlow.InvoicingAPI.csproj" />
+    <Project Path="InvoiceFlow.Infra/InvoiceFlow.Infra.csproj" />
+  </Folder>
+  <Folder Name="/Frontend/" />
+  <Folder Name="/Shared/">
+    <Project Path="Shared/InvoiceFlow.Comunication/InvoiceFlow.Comunication.csproj" />
+    <Project Path="Shared/InvoiceFlow.Exceptions/InvoiceFlow.Exceptions.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,6 @@
+@InvoiceFlow.InventoryAPI_HostAddress = http://localhost:5189
+
+GET {{InvoiceFlow.InventoryAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
